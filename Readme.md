@@ -1,25 +1,10 @@
-# FULLDocsWitharchitekture.md
 
-# 1. DOCUMENT CONTROL
 
 ```text
 Project:          Hooken — Uniswap v4 Hook-Based Token Launchpad
 Document:         Master Technical Documentation & Architecture Reference
 Version:          1.0
-Status:           Draft — compiled from source materials; implementation not yet started in this workspace
-Generated:        August 8, 2026
-Primary Source:   attached_assets/PRD_1786199037500.md (Hooken PRD v1.0)
-Source Documents: 1. attached_assets/PRD_1786199037500.md — Hooken Product Requirements Document v1.0
-                  2. attached_assets/hockedpaper_1786199037503.txt — Hooken Protocol Technical Whitepaper v1.0
-                  3. Replit workspace codebase (pnpm monorepo scaffold — see Section 36)
-Known Limitations:
-  - No Hooken application source code, smart contract code, or deployed frontend/backend exists
-    in this workspace yet. All protocol behavior documented here derives from the PRD and whitepaper.
-  - Several items are explicitly UNKNOWN (audit details, $HOOKEN supply, KPIs — see Sections 49–50).
 ```
-
-**Priority of information applied:** Where PRD and whitepaper overlap, they agree; where the whitepaper provides implementation-level detail (exact percentages, windows, caps), that detail is treated as authoritative for protocol mechanics. Conflicts and gaps are recorded in Sections 49–50.
-
 ---
 
 # 2. EXECUTIVE SUMMARY
